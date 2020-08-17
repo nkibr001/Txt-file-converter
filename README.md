@@ -1,2 +1,2 @@
 # Txt-file-converter
-Changing the stylizationof a txt file
+Changing the stylizationof a txt file in C
